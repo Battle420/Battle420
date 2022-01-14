@@ -6,7 +6,7 @@ I like open source apps, so I use Pop OS as my operating system!
 <br>
 
 
-![battle420's stats](https://github-readme-stats.vercel.app/api?username=Battle420&bg_color=fafafa&hide_border=true&line_height=25&title_color=0c0c0d&text_color=141414&hide=["issues","prs"])
+![battle420's stats](https://github-readme-stats.vercel.app/api?username=Battle420&bg_color=808080&hide_border=true&line_height=25&title_color=0c0c0d&text_color=141414&hide=["issues","prs"])
 
 <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>I don't like talking to people, so don't even try to talk if you have no reasons to do so.</b> </em>
 
